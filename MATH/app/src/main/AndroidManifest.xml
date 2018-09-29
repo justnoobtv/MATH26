@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thiti.math26">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LevelSector" />
+        <activity android:name=".Easy_Question1" />
+        <activity android:name=".Easy_Question2" />
+        <activity android:name=".Easy_Question3" />
+        <activity android:name=".Easy_Question4" />
+        <activity android:name=".Easy_Question5" />
+        <activity android:name=".Easy_Question6" />
+        <activity android:name=".Easy_Question7" />
+        <activity android:name=".Easy_Question8" />
+        <activity android:name=".Easy_Question9" />
+        <activity android:name=".Easy_Question10" />
+        <activity android:name=".Easy_Question11" />
+        <activity android:name=".Easy_Question12" />
+        <activity android:name=".Easy_Question13" />
+        <activity android:name=".Easy_Question14" />
+        <activity android:name=".Easy_Question15" />
+        <activity android:name=".Easy_Question16" />
+        <activity android:name=".Easy_Question17" />
+        <activity android:name=".Easy_Question18" />
+        <activity android:name=".Easy_Question19" />
+        <activity android:name=".Easy_Question20" />
+        <activity android:name=".Easy_Question21" />
+        <activity android:name=".Easy_Question22" />
+        <activity android:name=".Easy_Question23" />
+        <activity android:name=".Easy_Question24" />
+        <activity android:name=".Easy_Question25" />
+        <activity android:name=".Easy_Question26" />
+        <activity android:name=".Easy_Question27" />
+        <activity android:name=".Easy_Question28" />
+        <activity android:name=".Easy_Question29" />
+        <activity android:name=".Easy_Question30" />
+        <activity android:name=".Easy_Question31" />
+        <activity android:name=".Easy_Question32" />
+        <activity android:name=".Easy_Question33" />
+        <activity android:name=".Easy_Question34" />
+        <activity android:name=".Easy_Question35" />
+        <activity android:name=".Easy_Question36" />
+        <activity android:name=".Easy_Question37" />
+        <activity android:name=".Easy_Hamster_Edit" />
+        <activity android:name=".Easy_Question38" />
+        <activity android:name=".Easy_Question39" />
+        <activity android:name=".Easy_Question40" />
+        <activity android:name=".Easy_Question41" />
+        <activity android:name=".Easy_Question42" />
+        <activity android:name=".Lobby_Screen" />
+        <activity android:name=".Lobby_Setting" />
+        <activity android:name=".Normal_Question1" />
+        <activity android:name=".Hard_Question1" />
+        <activity android:name=".Normal_Question2" />
+        <activity android:name=".Normal_Question3" />
+        <activity android:name=".Normal_Question4" />
+        <activity android:name=".Normal_Question5" />
+        <activity android:name=".Hard_Question2" />
+        <activity android:name=".Normal_Question6" />
+        <activity android:name=".Normal_Question7" />
+        <activity android:name=".Normal_Question8" />
+        <activity android:name=".Normal_Question9" />
+        <activity android:name=".Normal_Question10" />
+        <activity android:name=".Hard_Question3" />
+        <activity android:name=".Hard_Question4" />
+        <activity android:name=".Hard_Question5"></activity>
+    </application>
+
+</manifest>
